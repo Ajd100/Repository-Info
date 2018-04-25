@@ -7,4 +7,5 @@ Tower-Defense - Java <br>
 Spelling-Checker1 - Java <br>
 Spelling-Checker2 - C++ <br>
 Bitonic-Merge-Sort - Java <br>
+Number-Game - Python <br>
 
