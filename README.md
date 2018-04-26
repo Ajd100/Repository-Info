@@ -1,5 +1,6 @@
 # Repository-Info
-Information about the private repositories that I have
+Information about the private repositories that I have <br>
+If you would like access to them, shoot me a message <br>
 
 I have several private repositories: <br>
 2048 - Java (First Java Project) <br>
