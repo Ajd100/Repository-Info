@@ -7,7 +7,7 @@ I have several private repositories: <br>
 Tower-Defense - Java <br>
 Spelling-Checker1 - Java <br>
 Spelling-Checker2 - C++ <br>
-Bitonic-Merge-Sort - Java <br>
+Bitonic-Merge-Sort - Java - Several variances <br>
 Secure-Number-Game - Python <br>
 RSA Encryption - Java <br>
 
